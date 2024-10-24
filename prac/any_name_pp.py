@@ -1,5 +1,4 @@
 # TABL
-
 import xlsxwriter
 from pp_for_tabl import array
 
@@ -13,7 +12,7 @@ def writer(parametr):
 
       page.set_column("A:A", 20)
       page.set_column("B:B", 20)
-      page.set_column("C:C", 50)
+      page.set_column("C:C", 90)
       page.set_column("D:D", 50)
 
       # ЗАПИСЬ
