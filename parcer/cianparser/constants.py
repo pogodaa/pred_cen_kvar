@@ -68,8 +68,8 @@ SPECIFIC_FIELDS_FOR_SALE = {"price", "residential_complex", "object_type", "fini
 
 CITIES = [
     # new ne work cs id
-    ['Новая Москва район', '4132'],
-    ['Московская область', '4525'],
+    ['Новая Москва район', '?'],
+    ['Московская область', '?'],
 
 
     ['Москва', '1'],
